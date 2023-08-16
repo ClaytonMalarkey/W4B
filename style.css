@@ -1,0 +1,210 @@
+html{
+    font-family: 'PT Sans', sans-serif;
+}
+
+@media (max-width: 720px){
+    .gridtemplate {
+        display: grid;
+    }
+    .lightblue{
+        margin-top: 50px;
+        padding: 20px;
+        background-color: #B8DDFF;
+        color: #0084FF;
+        border-radius: 25px;
+    }
+    .lightgreen {
+        background-color: #CAF0DB;
+        color: #54C788;
+        display: grid;
+        align-self: center;
+        border-radius: 25px;
+        margin-top: 20px;
+        padding: 10px;
+    }
+    .lightpink {
+        background-color: #FFD2D2;
+        color: #FF8A8A;
+        display: grid;
+        border-radius: 25px;
+        margin-top:20px;
+        padding: 10px;
+    }
+    .lightorange {
+        background-color: #FFE7C4;
+        color: #FFC166;
+        display: grid;
+        border-radius: 25px;
+        margin-top:20px;
+        padding: 10px;
+    }
+    .lightpurple {
+        background-color: #D5D4F5;
+        color: #9693E6;
+        display: grid;
+        border-radius: 25px;
+        margin-top:20px;
+        padding: 10px;
+    }
+    .lightredblacktext {
+        background-color: #FFD2D2;
+        color: black;
+        display: grid;
+        border-radius: 25px;
+        margin-top:20px;
+        padding: 10px;
+    }
+    .purple2 {
+        background-color: #9693E6;
+        color: white;
+        display: grid;
+        margin-top:50px;
+        padding: 10px;
+    }
+    .blackonwhite {
+        background-color: white;
+        color: black;
+        display: grid;
+        border-radius: 25px;
+        margin-top:50px;
+        margin-left: 20px;
+        margin-right: 20px;
+        padding: 20px;
+    }
+    .testimonials {
+        display: grid;
+        margin-top: 30px;
+    }
+    .purpletext{
+        color: #9693E6;
+    }
+    .header {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        background-color:#0084FF;
+        color: white;
+    }
+    h1 {
+        display: grid;
+    }
+    .headmenu {
+        justify-self: end;
+        align-self: center;
+        padding-right: 20px;
+    }
+    .headmenulogo {
+        margin-left: 20px;
+    }
+    .appstore {
+        width: 250px;
+        margin-left: 20px;
+        border-radius: 25px;
+        background-color: #0084FF;
+        color: white;
+        display: grid;
+        grid-template-columns:1fr 1fr ;
+    }
+    .apple {
+        justify-self: center;
+        align-self: center; 
+    }
+    .phone {
+        padding-left: 20px;
+    }
+    .development {
+        margin-top: 20px;
+        display: grid;
+        justify-self: center;
+        align-self: center;
+    }
+    .dhead {
+        display: grid;
+        justify-self: center;
+        align-self: center;
+    }
+    .pd {
+        display: grid;
+        justify-self: center;
+        align-self: center;  
+    }
+    .centered {
+        align-self: center;
+        justify-self: center;
+    }
+    .margintop0 {
+        margin-top: 0px;
+    }
+    .float-right {
+        float: right;
+    }
+    .rounded {
+        border-radius: 50%;
+        justify-self: center;
+        align-self: center;
+    }
+    .lightyellowbackground {
+        background-color: #FFC166;
+        margin-top: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+        border-radius: 25px;
+        padding: 20px;
+    }
+    .lightbluebackground {
+        background-color: #CAF0DB;
+        margin-top: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+        border-radius: 25px;
+        padding: 20px;
+    }
+    .whiteonpurplesection {
+        display: grid;
+        background-color: #9693E6;
+        color: white;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .purpleonwhitearticle {
+        background-color: white;
+        color: #9693E6;
+        border-radius: 25px;
+        padding: 20px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .purpletext2{
+        color: #9693E6;
+    }
+    .bossman {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+    .absolute {
+        align-self: center;
+        justify-self: center;
+        color: #9693E6;
+    }
+    .relative {
+        border-radius: 50%;
+    }
+    .whiteonpurple2 {
+        background-color: #9693E6;
+        color: white;
+        display: grid;
+        grid-template-columns: 1fr 6fr;
+        padding: 2px;
+        width: 200px;
+        border-radius: 5px;
+    }
+    .start {
+        align-self: center;
+        justify-self: start;
+    }
+
+@media (min-width:721px) and (max-width:1000px){
+
+}
+@media screen and (min-width:1000px){
+
+}
